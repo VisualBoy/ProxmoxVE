@@ -5,7 +5,7 @@
 # Source: https://github.com/NousResearch/hermes-agent
 
 # Import main orchestrator
-source <(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/build.func)
+source <(curl -fsSL https://raw.githubusercontent.com/VisualBoy/ProxmoxVE/main/misc/build.func)
 
 # Application Configuration
 APP="Hermes"
