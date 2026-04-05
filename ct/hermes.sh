@@ -4,6 +4,8 @@
 # License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
 # Source: https://github.com/NousResearch/hermes-agent
 
+export GITHUB_URL="https://raw.githubusercontent.com/VisualBoy/ProxmoxVE/main"
+
 # Import main orchestrator
 source <(curl -fsSL https://raw.githubusercontent.com/VisualBoy/ProxmoxVE/main/misc/build.func)
 
